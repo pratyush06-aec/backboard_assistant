@@ -1,2 +1,4 @@
-backboard
+backboard-sdk
 python-dotenv
+fastapi
+uvicorn
